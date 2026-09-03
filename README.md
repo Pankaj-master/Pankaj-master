@@ -331,19 +331,25 @@ Getting something working is version one. Understanding it and making it cleaner
 
 ---
 
-# 📊 GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-master&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="Pankaj's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-master&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Pankaj's most used languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=Pankaj-master&theme=github-dark-blue&hide_border=true"
+    alt="Pankaj's GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pankaj-master&theme=github-dark-blue&hide_border=true" alt="Pankaj's GitHub contribution streak" />
+  <a href="https://github.com/Pankaj-master">
+    <img
+      src="https://img.shields.io/badge/View%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub profile"
+    />
+  </a>
 </p>
 
 ---
-
 # 💭 Philosophy
 
 > **Build → Break → Understand → Improve**
