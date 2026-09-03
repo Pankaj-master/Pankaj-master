@@ -137,6 +137,11 @@ Backend / APIs
  ▼
 Database
 ```
+<p>
+  <a href="https://github.com/Pankaj-master/Ayurcare-Updating.git">
+    <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="AyurCare Repository" />
+  </a>
+</p>
 
 **Technology**
 
