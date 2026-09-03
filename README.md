@@ -1,426 +1,394 @@
-# `HI I am PANKAJ'
+👋 Pankaj Patel
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=600&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%2B+Full-Stack+Developer;Computer+Vision+%7C+Edge+AI;Building+Intelligent+Systems;Turning+Ideas+Into+Working+Products" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%2B+Full-Stack+Developer;Computer+Vision+%7C+Edge+AI;Building+Intelligent+Systems;Turning+Ideas+Into+Working+Products" alt="Typing introduction" />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Pankaj-master">
-<img src="https://img.shields.io/badge/GitHub-Pankaj--master-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-161b22?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Building...-161b22?style=for-the-badge"/>
-
+  <a href="https://github.com/Pankaj-master">
+    <img src="https://img.shields.io/badge/GitHub-Pankaj--master-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/pankaj-patel-790224268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
----
+> whoami
 
-## `~/pankaj`
-
-```text
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  $ whoami                                                   │
 │                                                             │
 │  Pankaj Patel                                               │
 │  AI + Full-Stack Developer                                  │
 │                                                             │
-│  $ cat interests.txt                                        │
+│  I like building systems that actually do something.        │
 │                                                             │
-│  > Artificial Intelligence                                  │
-│  > Computer Vision                                          │
-│  > Edge AI                                                  │
-│  > Full-Stack Development                                   │
-│  > Intelligent Systems                                      │
-│  > Hackathons                                               │
+│  AI            →  Computer Vision  →  Edge Systems         │
+│  Web           →  Backend          →  Real Applications    │
+│  Ideas         →  Prototypes       →  Working Products     │
 │                                                             │
-│  $ echo $STATUS                                             │
-│                                                             │
-│  BUILDING → LEARNING → DEBUGGING → REBUILDING               │
+│  status: BUILDING • LEARNING • DEBUGGING • IMPROVING       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-```
 
----
+I'm interested in the intersection of AI, software and real-world applications.
 
-# 🧭 `PROJECTS`
+I learn best by building: understand the problem, make something work, break it, debug it, and then make it better.
 
-Three projects currently define most of my development journey:
+🚀 Major Projects
 
 <p align="center">
 
-|  👁️ Computer Vision |         🧠 AI         |    🌿 Full Stack    |
-| :------------------: | :-------------------: | :-----------------: |
-| **Object Detection** |   **Smart Guidance**  |     **AyurCare**    |
-|      Jetson Nano     | Recommendation System | Healthcare Platform |
-|        Edge AI       |      Python / ML      |  React / TypeScript |
+👁️ Computer Vision
+
+🧠 AI / ML
+
+🌿 Full Stack
+
+Object Detection
+
+Smart Guidance
+
+AyurCare
+
+Jetson Nano
+
+Recommendation System
+
+Healthcare Platform
+
+Edge AI
+
+Python / ML
+
+React / TypeScript
 
 </p>
 
----
-
-<details>
+<details open>
 <summary><b>👁️ OBJECT DETECTION — JETSON NANO</b></summary>
 
 <br>
 
-### `Computer Vision × Edge AI`
+Computer Vision × Edge AI
 
-A real-time object detection system built around the **NVIDIA Jetson Nano**.
+A real-time object detection project built around the NVIDIA Jetson Nano.
 
-Instead of relying on a powerful desktop machine, the project explores running computer vision directly on edge hardware.
+The focus is on bringing computer vision and inference closer to the edge, where compute and hardware resources are more constrained than a typical desktop environment.
 
-```text
-             CAMERA
-                │
-                ▼
-        ┌──────────────┐
-        │ VIDEO INPUT  │
-        └──────┬───────┘
-               ▼
-        ┌──────────────┐
-        │ PREPROCESS   │
-        └──────┬───────┘
-               ▼
-        ┌──────────────┐
-        │ AI MODEL     │
-        └──────┬───────┘
-               ▼
-        ┌──────────────┐
-        │  INFERENCE   │
-        └──────┬───────┘
-               ▼
-        ┌──────────────┐
-        │ DETECTIONS   │
-        └──────────────┘
-```
+Core concepts
 
-**Core concepts**
+Object Detection Computer Vision Deep Learning Edge AI Real-Time Inference
 
-`Object Detection` `Computer Vision` `Deep Learning` `Edge AI` `Real-Time Inference`
+CAMERA
+   │
+   ▼
+VIDEO INPUT
+   │
+   ▼
+PRE-PROCESSING
+   │
+   ▼
+AI MODEL
+   │
+   ▼
+INFERENCE
+   │
+   ▼
+DETECTED OBJECTS
+   │
+   ▼
+REAL-TIME OUTPUT
 
-> The interesting constraint: **make AI run where compute is limited.**
+The challenge: make AI useful where compute is limited.
 
 </details>
 
----
-
-<details>
+<details open>
 <summary><b>🧠 SMART CAREER GUIDANCE</b></summary>
 
 <br>
 
-### `AI × Recommendation Systems`
+AI × Recommendation Systems
 
 An AI-based career guidance system designed to help users explore suitable career paths.
 
-The project focuses on transforming user information into useful recommendations rather than simply presenting static information.
+The idea is to transform information about a user into recommendations that can actually help with decision-making.
 
-```text
-USER INPUT
-    │
-    ▼
-PROFILE
-    │
-    ▼
-FEATURES
-    │
-    ▼
-RECOMMENDATION LOGIC
-    │
-    ▼
-CAREER OPTIONS
-    │
-    ▼
-USER
-```
+Focus
 
-**Stack**
+User profiling
 
-`Python` `Streamlit` `Machine Learning` `Recommendation Systems`
+Recommendation logic
 
-<a href="https://github.com/Pankaj-master/Smart_Career_Guidance_Bot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-238636?style=for-the-badge&logo=github"/>
-</a>
+Machine learning concepts
+
+Interactive guidance
+
+Practical AI application
+
+Stack
+
+Python Streamlit Machine Learning Recommendation Systems
+
+<p>
+  <a href="https://github.com/Pankaj-master/Smart_Career_Guidance_Bot">
+    <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Career Guidance Bot repository" />
+  </a>
+</p>
 
 </details>
 
----
-
-<details>
+<details open>
 <summary><b>🌿 AYURCARE</b></summary>
 
 <br>
 
-### `Full Stack × Healthcare × Accessibility`
+Full Stack × Healthcare × Accessibility
 
 A full-stack healthcare platform focused on turning a real-world problem into an accessible digital system.
 
-**Architecture**
+Focus
 
-```text
-             ┌─────────────┐
-             │    USER     │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │  FRONTEND   │
-             │ React / TS  │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │  BACKEND    │
-             │ APIs / Logic│
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │  DATABASE   │
-             │   Prisma    │
-             └─────────────┘
-```
+Modern web application
 
-**Focus**
+Backend APIs
 
-* Full-stack architecture
-* Backend APIs
-* Database relationships
-* Authentication
-* Multilingual functionality
-* Accessibility
-* Real-world healthcare workflows
+Database architecture
 
-**Stack**
+Authentication
 
-`React` `TypeScript` `Node.js` `Prisma` `Database`
+Multilingual functionality
+
+Accessibility
+
+Real-world healthcare workflows
+
+Stack
+
+React TypeScript Node.js Prisma Database
+
+USER
+  │
+  ▼
+FRONTEND
+React / TypeScript
+  │
+  ▼
+BACKEND
+APIs / Business Logic
+  │
+  ▼
+DATABASE
+Prisma / Data Layer
 
 </details>
 
----
+🧩 The Common Thread
 
-# 🧬 `THE CONNECTION`
+These projects may look different:
 
-These projects may look different.
+             COMPUTER VISION
+                    │
+                    ▼
+              EDGE AI / ML
+                    │
+                    │
+     ┌──────────────┴──────────────┐
+     ▼                             ▼
+SMART GUIDANCE                 AYURCARE
+     │                             │
+Recommendation                  Full Stack
+     │                             │
+     └──────────────┬──────────────┘
+                    ▼
+            REAL-WORLD SYSTEMS
 
-But there's a common pattern:
+But the underlying idea is the same:
 
-```text
-        AI
-        │
-        ├───────────────┐
-        │               │
-        ▼               ▼
- COMPUTER VISION    RECOMMENDATION
-        │               │
-        ▼               ▼
-   EDGE SYSTEM     SMART GUIDANCE
-        │               │
-        └───────┬───────┘
-                │
-                ▼
-        REAL-WORLD SOFTWARE
-                │
-                ▼
-             AYURCARE
-```
+Build technology that solves an actual problem.
 
-### The goal isn't collecting technologies.
+🛠️ Tech Stack
 
-It's learning how to combine them into **systems that solve problems**.
-
----
-
-# 🛠️ `TECH STACK`
-
-### `AI / ML`
+AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
-`Computer Vision` · `Object Detection` · `Machine Learning` · `Recommendation Systems`
+Computer Vision · Object Detection · Machine Learning · Recommendation Systems
 
-### `FULL STACK`
+Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,nodejs,express,tailwind" alt="React, TypeScript, Vite, Node.js, Express, Tailwind" />
 </p>
 
-### `DATABASE`
+Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="PostgreSQL, MongoDB, Prisma" />
 </p>
 
-### `TOOLS`
+Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Git, GitHub, VS Code, Postman, Docker" />
 </p>
 
-### `HARDWARE`
+Hardware / Edge
 
-`NVIDIA Jetson Nano` · `Edge Computing` · `Real-Time Inference`
+NVIDIA Jetson Nano · Edge Computing · Real-Time Inference
 
----
+🎯 Currently Exploring
 
-# 🎮 `DEVELOPER STATS`
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   AI              ████████████████░░         ║
-║   FULL STACK      █████████████████░         ║
-║   BACKEND         ██████████████░░░░         ║
-║   COMPUTER VISION ███████████████░░░         ║
-║   SYSTEM DESIGN   ███████████░░░░░░         ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pankaj-master&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj-master&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 🧠 `CURRENTLY.EXE`
-
-```text
-[████████████████████░░] Full-Stack Development
-[██████████████████░░░░] AI / ML
-[█████████████████░░░░░] Computer Vision
-[██████████████░░░░░░░░] Backend Architecture
-[████████████░░░░░░░░░░] System Design
-```
-
-```yaml
-learning:
-  - AI systems
+focus:
+  - Artificial Intelligence
   - Computer Vision
-  - Backend architecture
-  - System design
+  - Full-Stack Development
+
+exploring:
   - Edge AI
+  - Backend Architecture
+  - Machine Learning
+  - System Design
+  - Intelligent Applications
 
-building:
-  - real-world applications
-  - hackathon solutions
-  - intelligent systems
-```
+approach:
+  - Build
+  - Experiment
+  - Debug
+  - Understand
+  - Improve
 
----
+🏆 Hackathon Mode
 
-# 🏆 `HACKATHON MODE`
+I enjoy hackathons because they compress the entire development cycle into one challenge.
 
-```text
-                    PROBLEM
-                       │
-                       ▼
-                  RESEARCH
-                       │
-                       ▼
-                  ARCHITECT
-                       │
-                       ▼
-                   BUILD
-                       │
-                       ▼
-                   DEBUG
-                       │
-                       ▼
-                  INTEGRATE
-                       │
-                       ▼
-                    DEMO
-                       │
-                       ▼
-                     🚀
-```
+PROBLEM
+   ↓
+RESEARCH
+   ↓
+ARCHITECTURE
+   ↓
+PROTOTYPE
+   ↓
+INTEGRATION
+   ↓
+DEBUGGING
+   ↓
+DEMO
+   ↓
+🚀
 
-I enjoy hackathons because they force ideas to survive contact with reality.
+The goal isn't just to make something that looks good.
 
-**The prototype has to work.**
+The thing has to work.
 
----
-
-# 🧩 `HOW I THINK`
+🧠 How I Build
 
 <details>
 <summary>🔍 <b>Understand before optimizing</b></summary>
 
-If I don't understand why something works, I probably don't understand it yet.
+<br>
 
-</details>
-
-<details>
-<summary>🐛 <b>Debugging is part of development</b></summary>
-
-Something breaking isn't necessarily failure.
-
-It's usually the system telling me something I haven't understood yet.
+If I don't understand why something works, I probably don't understand the system yet.
 
 </details>
 
 <details>
 <summary>🔨 <b>Build to learn</b></summary>
 
-I learn technologies much faster when there's an actual problem attached to them.
+<br>
+
+Theory becomes much easier to understand when there's an actual problem attached to it.
 
 </details>
 
 <details>
-<summary>♻️ <b>Version 1 is rarely the final version</b></summary>
+<summary>🐛 <b>Debug properly</b></summary>
 
-Get it working.
+<br>
 
-Understand it.
-
-Then make it better.
+A bug is usually a clue about something I haven't understood yet.
 
 </details>
 
----
+<details>
+<summary>♻️ <b>Improve the second version</b></summary>
 
-# 📈 `GITHUB`
+<br>
+
+Getting something working is version one.
+
+Understanding it and making it cleaner is the next step.
+
+</details>
+
+📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj-master&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj-master&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="Pankaj's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj-master&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Pankaj's most used languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pankaj-master&theme=github-dark-blue&hide_border=true" alt="Pankaj's GitHub contribution streak" />
+</p>
 
-# 📫 `CONNECT`
+📌 A Small Snapshot
+
+┌────────────────────────────────────────────┐
+│                                            │
+│  PRIMARY        AI / Full Stack            │
+│                                            │
+│  COMPUTER VISION                            │
+│  └── Object Detection + Jetson Nano       │
+│                                            │
+│  AI / ML                                    │
+│  └── Smart Career Guidance                │
+│                                            │
+│  FULL STACK                                 │
+│  └── AyurCare                              │
+│                                            │
+│  MINDSET                                    │
+│  └── Build → Break → Understand → Improve │
+│                                            │
+└────────────────────────────────────────────┘
+
+💭 Developer Philosophy
+
+Don't just make it work. Understand why it works.
+
+BUILD
+  ↓
+BREAK
+  ↓
+UNDERSTAND
+  ↓
+FIX
+  ↓
+IMPROVE
+  ↓
+SHIP 🚀
+
+📫 Connect
 
 <p align="center">
 
 <a href="https://github.com/Pankaj-master">
-<img src="https://img.shields.io/badge/GitHub-Pankaj--master-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Pankaj--master-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pankaj-patel-790224268/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
 </p>
 
----
-
 <p align="center">
 
-```text
-BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE
-```
+AI • COMPUTER VISION • FULL STACK • BUILDING
 
-### `Still building. Still learning. Still debugging.`
+<i>Still learning. Still building. Still debugging.</i>
 
 </p>
