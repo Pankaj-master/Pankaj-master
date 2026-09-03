@@ -19,7 +19,7 @@
 
 I'm a developer interested in the intersection of **AI, software, and real-world applications**.
 
-I enjoy building systems that combine **intelligence, software, and practical problem-solving** — from computer vision on edge hardware to full-stack applications.
+I enjoy building systems that combine **intelligence, software, and practical problem-solving** - from computer vision on edge hardware to full-stack applications.
 
 **I learn by building:** understand the problem → make it work → debug it → improve it.
 
@@ -28,7 +28,7 @@ I enjoy building systems that combine **intelligence, software, and practical pr
 ## 🚀 Major Projects
 
 <details>
-<summary><b>👁️ Object Detection — Jetson Nano</b></summary>
+<summary><b>👁️ Object Detection - Jetson Nano</b></summary>
 
 <br>
 
